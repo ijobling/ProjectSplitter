@@ -1,0 +1,26 @@
+name: codio-publish
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: Cleanup
+        run: rm -rf .git
+
+      - name: Publish to Codio
+        uses: codio/codio-assignment-publish-action@master
+        with:
+          client-id: ${{ secrets.CODIO_PRODUCTION_CLIENT_ID }}
+          secret-id: ${{ secrets.CODIO_PRODUCTION_SECRET_ID }}
+          dir: ./
+          course-id: 5c775385cb4af986c95c549aa505304c   >>updte
+          changelog: ${{ github.event.head_commit.message }}
+          yml: ./.github/yaml_map

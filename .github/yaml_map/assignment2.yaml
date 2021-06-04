@@ -1,0 +1,11 @@
+# module 1 for section 2.1 and 2.2
+
+# the assigment id
+- assignment: 6a0e10e1efe3a6317380e7c09bed9c8b  >>update
+  section:  "Section 2.1"
+  paths: ['Section 2.1/**']
+# to include another section from guides in the assignment
+- assignment: 6a0e10e1efe3a6317380e7c09bed9c8b  >>update
+  section:  "Section 2.2"
+# to include a specific file from the root folder
+  paths: ['file3.java'] 

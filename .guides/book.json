@@ -1,0 +1,101 @@
+{
+ "name": "Book Conversion",
+ "children": [
+  {
+   "title": "Chapter 1",
+   "id": "1ad7ed43-a937-2260-112a-abbaae5d56f2",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Section 1.1",
+     "id": "f9ebf41a-2014-e9f9-6ce5-4e0ac9cb44d0",
+     "type": "section",
+     "children": []
+    },
+    {
+     "title": "Page 1.1",
+     "id": "63faede8-8bfd-5649-f4c0-56d089b37934",
+     "type": "page",
+     "pageId": "63faede8-8bfd-5649-f4c0-56d089b37934"
+    },
+    {
+     "title": "Page 1.2",
+     "id": "0b778042-a559-a250-b99e-6d6fb472f396",
+     "type": "page",
+     "pageId": "0b778042-a559-a250-b99e-6d6fb472f396"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2",
+   "id": "239c8501-6a96-2c16-88da-b00d8a9539f6",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Section 2.1",
+     "id": "e44b4297-e93f-1f3a-4ae0-fae07556166f",
+     "type": "section",
+     "children": [
+      {
+       "title": "Page 2.1.1",
+       "id": "491ea972-1909-eb5b-b52c-a6d418eadff4",
+       "type": "page",
+       "pageId": "0aacdeab-ec32-e3a5-d40f-5c9457d3be36"
+      },
+      {
+       "title": "Page 2.1.2",
+       "id": "d636208c-a72b-1897-4600-0abd6f81dac1",
+       "type": "page",
+       "pageId": "943e7df8-00fc-b5db-bb3c-899188a4f2d4"
+      }
+     ]
+    },
+    {
+     "title": "Section 2.2",
+     "id": "3fc1b695-b6f3-b854-2b0a-4403cc307a44",
+     "type": "section",
+     "children": [
+      {
+       "title": "Page 2.2.1",
+       "id": "24f283c4-413a-ca52-91c7-60587c6b50d9",
+       "type": "page",
+       "pageId": "7f225481-2d6c-3f29-35f1-a81e89cecf7a"
+      },
+      {
+       "title": "Page 2.2.2",
+       "id": "14659503-679b-d7c5-926a-25d0507347cb",
+       "type": "page",
+       "pageId": "1565a1d5-9d5a-3b1c-cf8c-bbb8495d2e54"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3",
+   "id": "9b5dbc92-d62d-5ec5-f7fa-8948d7a26d46",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Section 3.1",
+     "id": "58d0b954-8fce-df18-ec23-0ab162ffeb66",
+     "type": "section",
+     "children": [
+      {
+       "id": "c0d7a8a9-8b49-ca24-f21e-44c3f7ba0dff",
+       "title": "Page 3.1.1",
+       "pageId": "aa28306d-bdb1-d0dc-e2d8-00859de8a33f",
+       "type": "page"
+      },
+      {
+       "id": "7502540c-d434-5941-8d5f-b80037cc6b4c",
+       "title": "Page 3.1.2",
+       "pageId": "c09e08aa-16d8-3333-67f5-5a746255fe51",
+       "type": "page"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

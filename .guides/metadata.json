@@ -1,0 +1,202 @@
+{
+ "sections": [
+  {
+   "id": "63faede8-8bfd-5649-f4c0-56d089b37934",
+   "title": "Page 1.1",
+   "files": [
+    {
+     "path": "Section 1.1/file1.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "Section 1.1"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-1-1-63fa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0b778042-a559-a250-b99e-6d6fb472f396",
+   "title": "Page 1.2",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "Section 1.1/newfile.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-1-2-0b77.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0aacdeab-ec32-e3a5-d40f-5c9457d3be36",
+   "title": "Page 2.1.1",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "Section 2.1/file2.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "Section 2.1"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-2-1-1-0aac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "943e7df8-00fc-b5db-bb3c-899188a4f2d4",
+   "title": "Page 2.1.2",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "Section 2.1/file2-1.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-2-1-2-943e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7f225481-2d6c-3f29-35f1-a81e89cecf7a",
+   "title": "Page 2.2.1",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "Section 2.2/file3.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "Section 2.2"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-2-2-1-7f22.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1565a1d5-9d5a-3b1c-cf8c-bbb8495d2e54",
+   "title": "Page 2.2.2",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-2-2-2-1565.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "aa28306d-bdb1-d0dc-e2d8-00859de8a33f",
+   "title": "Page 3.1.1",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "Section 3.1/file4.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "Section 3.1"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-3-1-1-aa28.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c09e08aa-16d8-3333-67f5-5a746255fe51",
+   "title": "Page 3.1.2",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-3-1-2-c09e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}
