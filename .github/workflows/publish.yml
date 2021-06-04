@@ -21,6 +21,6 @@ jobs:
           client-id: ${{ secrets.CODIO_PRODUCTION_CLIENT_ID }}
           secret-id: ${{ secrets.CODIO_PRODUCTION_SECRET_ID }}
           dir: ./
-          course-id: 5c775385cb4af986c95c549aa505304c   >>updte
+          course-id: dc03d23e29a7242dcf7da5e956d69d4e
           changelog: ${{ github.event.head_commit.message }}
           yml: ./.github/yaml_map
