@@ -2,7 +2,7 @@
 
 # the assigment id
 - assignment: 36f5f6d99f69a7dc12f2ce8d619e8494
-  section:  "Section 2.1"
+  section:   ["Chapter 2", "Section 2.1"]
   paths: ['Section 2.1/**']
 # to include another section from guides in the assignment
 - assignment: 36f5f6d99f69a7dc12f2ce8d619e8494
