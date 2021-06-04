@@ -24,3 +24,4 @@ jobs:
           course-id: dc03d23e29a7242dcf7da5e956d69d4e
           changelog: ${{ github.event.head_commit.message }}
           yml: ./.github/yaml_map
+          domain: codio.com

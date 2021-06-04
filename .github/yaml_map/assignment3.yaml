@@ -1,5 +1,5 @@
 # for module 2 section 3
 
 - assignment: 39935919265fb2c3eca360db6f5e462f
-  section:  "Section 3.1"
+  section:  ["Chapter 3", "Section 3.1"]
   paths: ['**'] 
