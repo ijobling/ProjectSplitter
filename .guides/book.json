@@ -10,19 +10,20 @@
      "title": "Section 1.1",
      "id": "f9ebf41a-2014-e9f9-6ce5-4e0ac9cb44d0",
      "type": "section",
-     "children": []
-    },
-    {
-     "title": "Page 1.1",
-     "id": "63faede8-8bfd-5649-f4c0-56d089b37934",
-     "type": "page",
-     "pageId": "63faede8-8bfd-5649-f4c0-56d089b37934"
-    },
-    {
-     "title": "Page 1.2",
-     "id": "0b778042-a559-a250-b99e-6d6fb472f396",
-     "type": "page",
-     "pageId": "0b778042-a559-a250-b99e-6d6fb472f396"
+     "children": [
+      {
+       "title": "Page 1.1",
+       "id": "63faede8-8bfd-5649-f4c0-56d089b37934",
+       "type": "page",
+       "pageId": "63faede8-8bfd-5649-f4c0-56d089b37934"
+      },
+      {
+       "title": "Page 1.2",
+       "id": "0b778042-a559-a250-b99e-6d6fb472f396",
+       "type": "page",
+       "pageId": "0b778042-a559-a250-b99e-6d6fb472f396"
+      }
+     ]
     }
    ]
   },
@@ -82,16 +83,16 @@
      "type": "section",
      "children": [
       {
-       "id": "c0d7a8a9-8b49-ca24-f21e-44c3f7ba0dff",
        "title": "Page 3.1.1",
-       "pageId": "aa28306d-bdb1-d0dc-e2d8-00859de8a33f",
-       "type": "page"
+       "id": "c0d7a8a9-8b49-ca24-f21e-44c3f7ba0dff",
+       "type": "page",
+       "pageId": "aa28306d-bdb1-d0dc-e2d8-00859de8a33f"
       },
       {
-       "id": "7502540c-d434-5941-8d5f-b80037cc6b4c",
        "title": "Page 3.1.2",
-       "pageId": "c09e08aa-16d8-3333-67f5-5a746255fe51",
-       "type": "page"
+       "id": "7502540c-d434-5941-8d5f-b80037cc6b4c",
+       "type": "page",
+       "pageId": "c09e08aa-16d8-3333-67f5-5a746255fe51"
       }
      ]
     }
