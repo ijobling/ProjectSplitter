@@ -60,7 +60,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels-tree",
    "path": [
     "Section 2.1"
    ],
@@ -105,12 +105,12 @@
      "action": "close"
     },
     {
-     "path": "Section 2.2/file3.java",
+     "path": "file3.java",
      "panel": 0,
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels-tree",
    "path": [
     "Section 2.2"
    ],
@@ -176,7 +176,7 @@
      "action": "close"
     }
    ],
-   "layout": "",
+   "layout": "1-panel-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Page-3-1-2-c09e.md",
